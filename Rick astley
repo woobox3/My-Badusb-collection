@@ -1,1 +1,43 @@
-REM launches rick astley, classic one
+REM launches rick astley
+REM the code below will start the notepad through windows r 
+DELAY 500
+GUI r
+DELAY 500
+STRING notepad
+DELAY 700
+ENTER
+DELAY 800
+REM this will print the text to notepad
+STRING   _                       _                 _ 
+ENTER
+HOME
+DELAY 200
+STRING  | | __      _____   ___ | |__   _____  __ | |
+ENTER
+HOME
+DELAY 200
+STRING  | | \ \ /\ / / _ \ / _ \| '_ \ / _ \ \/ / | |
+ENTER
+HOME
+DELAY 200
+STRING  |_|  \ V  V / (_) | (_) | |_) | (_) >  <  |_|
+ENTER
+HOME
+DELAY 200
+STRING  (_)   \_/\_/ \___/ \___/|_.__/ \___/_/\_\ (_)
+ENTER
+HOME
+DELAY 200
+REM this code below this message will open rick astley and put the volume to max
+WINDOWS r 
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER
+DELAY 400
+MEDIA VOLUME_UP
+MEDIA VOLUME_UP
+MEDIA VOLUME_UP
+MEDIA VOLUME_UP
+MEDIA VOLUME_UP
+MEDIA VOLUME_UP
+MEDIA VOLUME_UP
+MEDIA VOLUME_UP
