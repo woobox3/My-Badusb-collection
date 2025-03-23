@@ -5,5 +5,5 @@ If you find this then im surprised because it was not intentionally made for the
 
  
                                                                        
-                                                           |_|   |_|                                                                                                  
+                                                                                                                                                    
 !!!im not sure if all of these work but i will try to make sure and these are mainly for windows!!!
